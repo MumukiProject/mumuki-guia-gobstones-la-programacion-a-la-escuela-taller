@@ -1,0 +1,20 @@
+<category name="Comandos">
+  <block type="Poner"></block>
+  <block type="Sacar"></block>
+  <block type="Mover"></block>
+</category>
+
+<category name="Valores">
+  <block type="ColorSelector"></block>
+  <block type="DireccionSelector"></block>
+  <block type="math_number"></block>
+</category>
+
+<category name="Procedimientos">
+  <category name="Procedimientos primitivos"> </category>
+  <category name="Mis procedimientos" custom="PROCEDURE_CALLS"> </category>
+</category>
+
+<category name="Estructuras de control">
+  <block type="RepeticionSimple"></block>
+</category>

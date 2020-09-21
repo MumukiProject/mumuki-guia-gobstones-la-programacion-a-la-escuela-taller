@@ -6,4 +6,4 @@
 
 Nuestras semillas ya están plantadas. Es hora de regalarlas para que crezcan ricos vegetales. :raised_hands:
 
-> Creá el programa para `regar` toda la fila de semillas. 
+> Creá el programa para `regar` toda la fila de semillas. ¡No te olvides de usar el bloque `repetir`!

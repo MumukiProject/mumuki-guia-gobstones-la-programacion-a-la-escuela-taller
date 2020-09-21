@@ -1,8 +1,9 @@
 ---
-name: La programación a la escuela taller
+name: La programación a la escuela
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []

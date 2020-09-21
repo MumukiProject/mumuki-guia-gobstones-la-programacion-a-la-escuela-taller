@@ -1,0 +1,9 @@
+---
+name: La programación a la escuela taller
+locale: es
+type: practice
+beta: false
+language: gobstones
+id_format: "%05d"
+order: []
+private: false

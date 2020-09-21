@@ -1,0 +1,14 @@
+---
+locale: es
+tags: []
+layout: input_primary
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Antes de empezar a crear la solución siempre podemos explorar lo que
+  nos propone un problema: \n\n* ¿Cuál es el objetivo? \n* ¿Con qué bloques cuento?
+  \n* ¿Cuál es el tablero inicial? \n* ¿Cómo debería verse el tablero al terminar
+  la ejecución del programa? \n* ¿Dónde se encuentra el punto de partida?"
+manual_evaluation: false
+choices: []
+name: No hay dos sin tres

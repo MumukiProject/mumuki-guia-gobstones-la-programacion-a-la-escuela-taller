@@ -1,0 +1,12 @@
+interactive: false
+check_head_position: true
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 1 3
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 3
+     cell 0 2 Rojo 1 
+     head 0 2

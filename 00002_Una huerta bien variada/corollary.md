@@ -1,0 +1,1 @@
+¡Muy bien! Ya plantamos las semillas. Ahora hay que cuidarlas :sweat_drops: y esperar :hourglass_flowing_sand: a que crezcan para que podamos cosechar sus frutos. :smile:

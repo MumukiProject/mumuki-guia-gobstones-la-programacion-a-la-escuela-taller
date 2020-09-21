@@ -36,4 +36,4 @@ Cuando se establece una comunicación, es importante que el mensaje sólo lo pue
     <th>Z = 🍎</th>
   </tr>
 </table>
-Escribí _SEGURIDAD_ utilizando emojis.
+Escribí _ESCUELA_ utilizando emojis.
